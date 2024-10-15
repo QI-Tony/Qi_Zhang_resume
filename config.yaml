@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Resume | Qi Zhang"
+title: "Resume | MERT BAKIR"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
@@ -52,7 +52,7 @@ params:
     - custom.scss
 #   - print_urls.scss
   header:
-    avatar: false
+    avatar: false # avatar.jpg
     contact: true
     tagline: true
     links: false
@@ -71,15 +71,15 @@ params:
           title: About Me
         - feature: experience
     - features:
-        # - feature: experience
-        #   title: Experience (Cont.)
+        - feature: experience
+          title: Experience (Cont.)
         - feature: projects
           collection: projects
-        # - feature: publications
-        #   style: IEEE # IEEE, APA, else
-        # - feature: awards
-        # - feature: certificates
-        #   title: Certifications
+        - feature: publications
+          style: IEEE # IEEE, APA, else
+        - feature: awards
+        - feature: certificates
+          title: Certifications
         - feature: interests
           widget: word-list
           style: list
@@ -103,16 +103,16 @@ params:
     externalLinkIcon: false
         
   footer:
-    show: false 
+    show: true
     credits: true
     footnote: >-
       You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
     links:
       - prefix: Contact me on
         title: Linkedin
-        url: 'https://www.linkedin.com/in/qi-zhang-a71b371b5/'
+        url: 'https://linkedin.com/in/mertbakir/'
         icon: fab fa-linkedin
-      # - prefix: Check out my
-      #   title: Website
-      #   url: 'https://mertbakir.gitlab.io/about/'
-      #   icon: fas fa-globe
+      - prefix: Check out my
+        title: Website
+        url: 'https://mertbakir.gitlab.io/about/'
+        icon: fas fa-globe
