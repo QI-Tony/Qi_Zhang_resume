@@ -1,0 +1,32 @@
+- company: Artificial Intelligence Laboratory
+  roles:
+    - role: Graduate Research Assistant
+      details: |
+        Implemented high-performance web crawlers using Python, Selenium, and other frameworks to collect over 5,000 news articles and social media posts from industry leaders like Intel, Samsung, Volkswagen, and Tesla, as well as detailed profiles of over 20,000 Instagram users. Led a research project on "Automated Detection of Personally Identifiable Information (PII) Exposure on Social Media" using a multimodal approach with advanced NLP models, including BERT, RoBERTa, and LLaMA-2, to analyze and identify PII exposure risks across social media platforms.
+- company: Artificial Intelligence Laboratory
+  page: 1
+  roles: 
+    - role: Undergraduate Research Assistant 
+      tools: SQL, Flink, Kafka
+      details: |
+        Implemented high-performance web crawlers using Python, Selenium, and other tools to collect over 50,000 user profiles from TikTok, Instagram, and Reddit. Spearheaded the management of over a billion records in MongoDB, optimizing database performance through sharding. Additionally, maintained and developed a PII portal website using Django.
+
+      date: 09.2021 - 05.2023
+    
+    # - role: Junior Software Developer
+    #   tools: HTML, PHP, CSS
+    #   date: 10.2018 - 06.2019
+    #   details: |
+    #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+    #     Aenean nec volutpat arcu. Maecenas quis tempus risus.
+
+# - company: Company 1
+#   page: 2
+#   roles:
+#     - role: Junior Software Developer
+#       tools: C#, Python, Postgresql
+#       details: |
+#         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#         Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+#         Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+#       date: 2017 - 2018

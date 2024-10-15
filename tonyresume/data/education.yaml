@@ -1,0 +1,15 @@
+- name: Msc. Management Information System
+  university: University of Arizona
+  location: Tucson, AZ
+  # more: with Thesis # Optional field, if you want to add a non-standard line.
+  # link: https://... # Optional field, include a link to your project.
+  date: 2023 - 2025
+  gpa: 3.54 / 4.00
+  # details: >
+  #   Include details if you like to... 
+
+- name: Bsc. Computer Science
+  university: Gazi University
+  location: Tucson, AZ
+  date: 2019 - 2023
+  gpa : 3.56 / 4.00

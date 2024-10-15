@@ -1,0 +1,37 @@
+projects:
+- title: "Database design for Growth Ability Services  "
+  subtitle: "Unversity of Arizona "
+  date: "2023"
+  details: |
+    Architected and implemented a comprehensive database solution with over 30 tables to support the operational and analytical data of Growth Ability Services. Authored and optimized over 20 complex SQL queries, triggers, and procedures, and developed a user-friendly front-end interface, successfully deploying the application on AWS.
+- title: "Covid-19 fake news detection"
+  subtitle: "Unversity of Arizona "
+  date: "2023"
+  details: |
+    Used Scikit-Learn to apply traditional machine learning methods for identifying COVID-19-related fake news and implemented advanced deep learning models like RNN and CNN using TensorFlow. Integrated the ChatGPT API to leverage language models for nuanced fake news detection.
+- title: "Diabetic Retinopathy Image Analysis and Classification"
+  subtitle: "Unversity of Arizona "
+  date: "2023"
+  details: |
+    Implemented an attention-based Convolutional Neural Network (CNN) model for detecting Diabetic Retinopathy, focusing on accuracy and efficiency in medical image classification.
+- title: "Compiler Simulation "
+  subtitle: "Unversity of Arizona "
+  date: "2023"
+  details: |
+    Created a new programming language with specific grammar rules and production-grade code. Developed each part of the compiler, including the Scanner, Parser, Code Generator, and Error Handler, using Python.
+- title: "Simulation Hospital Database Management System"
+  subtitle: "Unversity of Arizona "
+  date: "2022"
+  details: |
+    Built a hospital database according to specified requirements and created JDBC-based interfaces that allow users to efficiently add, modify, and query data.
+
+# - title: "Resume - A4"
+#   subtitle: "mertbakir.gitlab.io/resume"
+#   link: "https://gitlab.com/mertbakir/resume-a4"
+#   date: "2020"
+#   details: |
+#     Bring CI/CD to your resume using YAML and Git."
+#   links:
+#   - title: Available in GitLab
+#     url: https://gitlab.com/mertbakir/resume-a4
+#     icon: fab fa-gitlab
